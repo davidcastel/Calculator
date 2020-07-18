@@ -1,3 +1,9 @@
-# Calculator
+# Calculator 
+----
+You can view the project live following this link:
+https://davidcastel.github.io/Calculator/
 
-A tiny poject I worked on to help me with my JS and Bootstrap.
+Using bootstrap to design the calculator outlay. 
+I also used JavaScript to be able to calculate the math. 
+
+I plan to build onto this small project to eventually make it to a scientific calculator. 
